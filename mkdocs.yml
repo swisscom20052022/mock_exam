@@ -1,0 +1,24 @@
+site_name: My Docs
+theme:
+  name: material
+  palette:
+    scheme: slate  # dark mode (optional)
+    primary: teal
+    accent: cyan
+nav:
+  - Home: index.md
+  - Introduction:
+      - Part 1: 1.md
+      - Part 2: 2.md
+  - Mock Exams:
+      - Mock Exam 1: mock_exam_1.md
+      - Mock Exam 2: mock_exam_2.md
+      - Mock Exam 3: mock_exam_3.md
+      - Mock Exam 4: mock_exam_4.md
+      - Mock Exam 5: mock_exam_5.md
+      - Mock Exam 6: mock_exam_6.md
+      - Mock Exam 7: mock_exam_7.md
+      - Mock Exam 8: mock_exam_8.md
+      - Mock Exam 9: mock_exam_9.md
+      - Mock Exam 10: mock_exam_10.md
+  - Evaluation Summary: a2_mock_exam_evaluation_summary.md
