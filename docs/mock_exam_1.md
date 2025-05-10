@@ -90,6 +90,10 @@
 
 **Task 1: Write 1 sentence (≥5 words) per image**  
 *Image themes: ģimene, ēdiens, skola, brīvdienas*  
+![kino](images/Cinema.png)
+![gatavoju](images/gatavoju.png)
+![mācās](images/mācās.png)
+![ceļojām](images/ceļojām.png)
 
 Examples:  
 1. Mēs ar ģimeni ejam uz kino.  
