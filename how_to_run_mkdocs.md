@@ -21,3 +21,8 @@ To run the MkDocs development server, follow these steps:
    ```
 
 This will display your MkDocs site locally.
+
+4. **Deploy to GitHub Pages**:
+    ```bash
+    mkdocs gh-deploy --clean
+    ```
