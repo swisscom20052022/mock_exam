@@ -1,0 +1,8 @@
+tasks:
+  - name: Install Dependencies
+    init: pip install -r requirements.txt
+  - name: Run MkDocs Server
+    command: mkdocs serve
+ports:
+  - port: 8000
+    onOpen: open-preview
