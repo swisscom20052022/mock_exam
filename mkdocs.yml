@@ -5,6 +5,9 @@ theme:
     scheme: slate  # dark mode (optional)
     primary: teal
     accent: cyan
+
+plugins:
+  - search
 nav:
   - Home: index.md
   - Introduction:
