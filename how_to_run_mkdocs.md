@@ -24,5 +24,6 @@ This will display your MkDocs site locally.
 
 4. **Deploy to GitHub Pages**:
     ```bash
+    python -m mkdocs build
     mkdocs gh-deploy --clean
     ```
