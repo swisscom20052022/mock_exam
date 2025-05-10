@@ -134,8 +134,10 @@ Sveika, Anna! Mēs bijām Siguldā sestdien. Tur bija skaista daba un jautri kal
 – Es dzīvoju Rīgā jau piecus gadus. Man ir sieva un viens bērns. Es strādāju par elektriķi. Brīvdienās man patīk braukt ar velosipēdu vai skatīties filmas.
 
 **Task 2: 2 Pictures + Opinion**  
-1. Attēls: cilvēki pludmalē  
+1. Attēls: cilvēki pludmalē 
+![pludmalē](images/pludmalē.png)
 2. Attēls: cilvēki kalnos  
+![kalnos](images/kalnos.png)
 
 **Jautājumi:**  
 - Ko cilvēki dara?  
