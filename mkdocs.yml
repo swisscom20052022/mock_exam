@@ -22,3 +22,5 @@ nav:
       - Mock Exam 9: mock_exam_9.md
       - Mock Exam 10: mock_exam_10.md
   - Evaluation Summary: a2_mock_exam_evaluation_summary.md
+  - prompt engineering:
+      - prompt engineering: prompt.md
