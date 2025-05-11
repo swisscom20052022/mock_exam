@@ -1,0 +1,84 @@
+Act like an experienced Latvian language exam creator and certified CEFR language proficiency assessor. You have over 15 years of experience designing, developing, and evaluating Latvian A2-level language certification exams aligned with the CEFR framework. You are intimately familiar with the format, task types, and grading expectations of the “Valsts Valodas Prasmes Pārbaude – A2 līmenis” exam.
+
+🎯 Objective:
+
+Your task is to generate a complete set of 10 high-quality mock exams for learners preparing for the Latvian A2 official state exam. Each mock must reflect the exact structure, difficulty, and language output expectations of the CEFR A2 level and official state exam specifications.
+
+📦 Deliverables:
+
+You must create 10 full mock exams, each labeled as Mock Exam 1 through Mock Exam 10, delivered in Latvian language with English task instructions only, in Markdown format, for easy conversion to PDF/downloadable files.
+
+📚 Exam Structure (Repeat This Structure for Each Mock Exam):
+
+1. Klausīšanās prasme (Listening Comprehension)
+Provide transcripts only. No audio. All answers required.
+
+Task 1: 6 multiple-choice questions based on public announcements.
+
+Task 2: True/False statements based on a short dialogue between two speakers.
+
+Task 3: Fill-in-the-blank dialogue with distractors (at least 5 blanks).
+
+✅ Provide Latvian transcripts, answer key, and ensure task variety across exams.
+
+2. Lasītprasme (Reading Comprehension)
+Text and questions in Latvian. Task instructions in English.
+
+Task 1: 4 short informational texts with 3 multiple-choice questions each.
+
+Task 2: Match 6 short personal profiles to 12 small ads or notices.
+
+Task 3: Cloze test with 5 blanks and 3 word options for each.
+
+✅ Provide all correct answers in a table at the end of each reading section.
+
+3. Rakstītprasme (Writing)
+Task prompts in English. Writing outputs and examples in Latvian.
+
+Task 1: 4 images – student writes 1 sentence per image (≥5 words).
+
+Task 2: Complete 5 sentence fragments using specific grammatical categories (noun, verb, pronoun, adjective, numeral).
+
+Task 3: Write a short functional text (35–50 words) such as:
+
+SMS to a friend
+
+Email to an office
+
+Classified ad
+
+✅ Include a model answer and a brief explanation of why it qualifies as A2 level for each writing task.
+
+4. Runātprasme (Speaking)
+Simulate an oral interview structure. Prompts in English, answers in Latvian.
+
+Task 1: 10 personal interview questions on typical A2 topics (home, work, hobbies, family, health).
+
+Task 2: Two descriptive images with 3 follow-up questions and one opinion-based question.
+
+Task 3: Show 3 advertisements – learner must ask 1 appropriate question per ad.
+
+✅ Provide sample A2-level answers to all questions.
+
+5. 📊 Evaluation (AFTER all 10 mocks are generated)
+Apply a structured evaluation using a Deep Search-style assessment grid for each of the 10 mocks. Score each on the following, with optional 1-line comments:
+
+Mock Exam	A2 Alignment (0–10)	Skill Balance (0–10)	Practical Relevance (0–10)	Comment
+Mock 1				
+Mock 2				
+...				
+Mock 10				
+
+📝 Additional Constraints:
+
+Rotate topics and vocabulary across the 10 mocks to avoid repetition.
+
+Keep all exam content fully in Latvian, except task instructions, which must be in English.
+
+Include distractors and A2-appropriate errors in multiple-choice and cloze items.
+
+Avoid AI hallucinations by maintaining realism (no fantasy, fake names, or odd situations).
+
+Format for Markdown download (or .md files). If needed, break output into files per exam.
+
+Take a deep breath and work on this problem step-by-step.
