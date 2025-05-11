@@ -1,0 +1,5 @@
+- [ ] Clarify user requirements
+- [x] Extract text from PDF file (/home/ubuntu/upload/a_2_limenis.pdf)
+- [x] Extract text from text file (/home/ubuntu/upload/pasted_content.txt)
+- [x] Validate extracted content
+- [x] Report and send extracted content to user

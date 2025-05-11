@@ -1,0 +1,25 @@
+- [x] Analyze official exam structure (using /home/ubuntu/prompt.txt and /home/ubuntu/extracted_pdf_content.txt)
+- [x] Design the first mock exam (Mock Exam 1)
+- [x] Validate Mock Exam 1 against CEFR A2 standards and the provided PDF reference
+- [x] Generate Mock Exam 2
+- [x] Validate Mock Exam 2
+- [x] Generate Mock Exam 3
+- [x] Validate Mock Exam 3
+- [x] Generate Mock Exam 4
+- [x] Validate Mock Exam 4
+- [x] Generate Mock Exam 5
+- [x] Validate Mock Exam 5
+- [x] Generate Mock Exam 6
+- [x] Validate Mock Exam 6
+- [x] Generate Mock Exam 7
+- [x] Validate Mock Exam 7
+- [x] Generate Mock Exam 8
+- [x] Validate Mock Exam 8
+- [x] Generate Mock Exam 9
+- [x] Validate Mock Exam 9
+- [x] Generate Mock Exam 10
+- [x] Validate Mock Exam 10
+- [ ] Compile all 10 mock exams into Markdown format (separate files or one large file, as per prompt)
+- [ ] Perform final quality check on all exams, ensuring skill balance and A2 alignment
+- [ ] Create the evaluation grid as specified in the prompt
+- [ ] Report and send all mock exams and the evaluation grid to the user
